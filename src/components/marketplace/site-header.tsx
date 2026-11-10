@@ -26,11 +26,11 @@ export function SiteHeader() {
   return (
     <header className="sticky top-0 z-50 w-full border-b border-slate-200 bg-white/95 backdrop-blur supports-[backdrop-filter]:bg-white/80">
       <div className="mx-auto flex h-16 max-w-[1400px] items-center justify-between px-4 sm:px-6">
-        <Link href="/" className="flex items-center gap-2" aria-label="WRTeam home">
+        <Link href="/" className="flex items-center gap-2" aria-label="ShuleDIgital home">
           <BrandMark />
           <span className="flex flex-col leading-none">
             <span className="text-xl font-black tracking-tight text-slate-900">
-              WRTeam<span className="align-super text-[9px]">®</span>
+              ShuleDIgital<span className="align-super text-[9px]">®</span>
             </span>
             <span className="text-[8px] font-semibold tracking-[0.22em] text-slate-400">
               TRUSTED DIGITAL PARTNER

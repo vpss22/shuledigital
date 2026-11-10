@@ -3,7 +3,7 @@
 ---
 Task ID: 1
 Agent: Z.ai Code (main agent)
-Task: Clone the eSchool SaaS marketplace product landing page (https://marketplace.wrteam.in/products/eschool-saas-multi-school-management-erp) as a Next.js 16 + Tailwind + shadcn/ui single-page app.
+Task: Clone the eSchool SaaS marketplace product landing page (https://marketplace.ShuleDIgital.in/products/eschool-saas-multi-school-management-erp) as a Next.js 16 + Tailwind + shadcn/ui single-page app.
 
 Work Log:
 - Inspected the target site with agent-browser: captured full-page structure (accessibility snapshot), section-by-section screenshots at 1440px, and footer.
@@ -47,7 +47,7 @@ Work Log:
   - `floating-buttons.tsx`: WhatsApp deep link → Kenya number (wa.me/254…).
   - `mockups.tsx`: dashboard revenue stat ₹9.2L → KSh 9.2M.
   - `layout.tsx`: metadata title/description/keywords/OG rebranded (added M-Pesa keyword).
-- WRTeam (marketplace vendor brand) intentionally kept per scope of request; product-level brand is now Shule-Digital.
+- ShuleDIgital (marketplace vendor brand) intentionally kept per scope of request; product-level brand is now Shule-Digital.
 - Lint clean. Agent-browser verification at 1440px & 390px: page title, hero wordmark, breadcrumb, sidebar radio labels (KSh 11,499 struck → KSh 9,999; KSh 129,999; add-on KSh 1,499), order total (Regular 9,999 / +add-on 11,498 / Extended+add-on 131,498), Add to Cart toast ("Regular License — KSh 9,999"), footer currency selector, M-Pesa checkout note. No console errors.
 
 Stage Summary:

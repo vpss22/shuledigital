@@ -38,7 +38,7 @@ export function SiteFooter() {
               <FooterBrandMark />
               <span className="flex flex-col leading-none">
                 <span className="text-xl font-black tracking-tight text-slate-900">
-                  WRTeam<span className="align-super text-[9px]">®</span>
+                  ShuleDIgital<span className="align-super text-[9px]">®</span>
                 </span>
                 <span className="text-[8px] font-semibold tracking-[0.22em] text-slate-400">
                   TRUSTED DIGITAL PARTNER
@@ -46,7 +46,7 @@ export function SiteFooter() {
               </span>
             </div>
             <p className="mt-4 max-w-sm text-[15px] leading-relaxed text-slate-500">
-              WRTeam is a creative and dedicated team of developers with expertise in app and
+              ShuleDIgital is a creative and dedicated team of developers with expertise in app and
               web development, committed to delivering high-quality solutions to clients
               worldwide.
             </p>
@@ -78,7 +78,7 @@ export function SiteFooter() {
             Copyright © 2026 All Rights Reserved &amp; Designed by{" "}
             <Heart className="inline h-3.5 w-3.5 fill-rose-500 text-rose-500" aria-hidden="true" />{" "}
             <Link href="#" className="font-semibold text-blue-600 underline underline-offset-2">
-              WRTeam.
+              ShuleDIgital.
             </Link>
           </p>
           <div className="flex flex-wrap items-center justify-center gap-3 sm:justify-end">

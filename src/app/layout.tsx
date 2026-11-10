@@ -33,7 +33,7 @@ export const metadata: Metadata = {
     title: "Shule-Digital - Multi School Management System",
     description:
       "Run unlimited schools from one Super Admin panel with dedicated Flutter apps and built-in SaaS billing.",
-    siteName: "WRTeam Marketplace",
+    siteName: "ShuleDIgital Marketplace",
     type: "website",
   },
 };

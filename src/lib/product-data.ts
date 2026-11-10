@@ -289,7 +289,7 @@ export const commentsData = [
     date: "5 days ago",
     text: "Does the SaaS billing module support trials for new schools?",
     reply: {
-      name: "WRTeam Support",
+      name: "ShuleDIgital Support",
       initials: "WR",
       date: "4 days ago",
       text: "Yes — you can configure free-trial days per plan from the Super Admin panel, and schools are notified before the trial ends.",
