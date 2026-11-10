@@ -156,17 +156,17 @@ export const licenses = [
   {
     key: "regular" as LicenseKey,
     name: "Regular License",
-    oldPrice: 11499,
-    price: 9999,
+    oldPrice: 31499,
+    price: 15999,
     description: "Full source code with everything you need to build your project.",
   },
-  {
-    key: "extended" as LicenseKey,
-    name: "Extended License",
-    oldPrice: null,
-    price: 129999,
-    description: "Full source code with complete setup, configuration, and live deployment.",
-  },
+  //{
+   // key: "extended" as LicenseKey,
+   // name: "Extended License",
+   // oldPrice: null,
+   // price: 19999
+    //description: "Full source code with complete setup, configuration, and live deployment.",
+ // },
 ];
 
 export const licenseComparison: {
@@ -190,15 +190,15 @@ export const licenseComparison: {
 
 export const installationPlans = [
   { key: "none", label: "No Installation Service", price: 0 },
-  { key: "backend", label: "Backend Installation (Panel + API)", price: 3999 },
-  { key: "full", label: "Full Setup (Backend + Apps Publishing)", price: 7999 },
+  { key: "backend", label: "Backend Installation (Panel + API)", price: 5999 },
+  { key: "full", label: "Full Setup (Backend + Apps Publishing)", price: 11999 },
 ] as const;
 
 export const addons = [
   {
     key: "dedicated-app",
     name: "Dedicated Application for Schools - Shule-Digital Add-on",
-    price: 1499,
+    price: 5499,
   },
 ];
 
